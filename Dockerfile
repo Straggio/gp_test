@@ -1,5 +1,5 @@
 # How to run code:
-# sudo docker build -t gp . && sudo docker run -it --rm --mount type=bind,source="$(pwd)", target=/usr/src/python_workspace --name gp gp
+# sudo docker build -t gp . && sudo docker run -it --rm --mount type=bind,source="$(pwd)",target=/usr/src/python_workspace --name gp gp
 
 FROM python:3.9
 
