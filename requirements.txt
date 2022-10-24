@@ -1,7 +1,6 @@
 numpy
 scipy
 matplotlib
-gpflow==2.3.0
 pandas
 tensorflow
 tensorflow-probability
