@@ -2,5 +2,8 @@ numpy
 scipy
 matplotlib
 pandas
-tensorflow
-tensorflow-probability
+seaborn
+tensorflow==2.10.0
+tensorflow-probability==0.18.0
+gpflow
+check_shapes
